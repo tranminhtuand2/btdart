@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 main(){
+  //demo
   stdout.write('nhap so can kiem tra co phai la so nguyen to hay khong');
   int a=int.parse(stdin.readLineSync()!);
   bool kt=true;
